@@ -1,4 +1,4 @@
-# 📊 Sales Prediction using Python  
+# 📊 Sales Prediction using Python
 
 ## 📌 Project Overview  
 This project predicts **sales revenue** based on **advertising budgets** using **machine learning**. The dataset includes advertising expenditures on **TV, Radio, and Newspaper**, and the goal is to build a model to predict sales based on these investments.  
